@@ -3,7 +3,7 @@
 
 his blog post announces the release of WhoBuntu v0.0.1 Alpha. WhoBuntu replaces the Whonix workstation. Whobuntu works with Whonix Gateway to establish a Tor connection. The main advantage of WhoBuntu and Whonix are that you are running two different VMs - one for traffic and routing ONLY that has access to the Internet (your Gateway) and one is the machine you use which routes the traffic to the gateway. This prevents a malicious attacker with arbitrary code execution from being able to execute any commands that deanonymize you. It's like a sandbox for Tor. This setup is currently the safest way to run Tor, and yes, it is far safer than Tails (according to the Tor Project).
 
-<h2>How do I get it?<h2>
+<h2>How do I get it?</h2>
 
 The following is tested on VirtualBox v6.0, it is highly recommended to use VirtualBox as it is the only supported OS by Whonix. If you choose to use something else YMMV (it probably won't work).
 
