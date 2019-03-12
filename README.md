@@ -20,7 +20,7 @@ The first step is to [change your LUKS password](https://askubuntu.com/questions
 
 <h2>Features</h2>
     
-Of course the main feature is that all traffic transported through Tor. Note that when we say *all traffic*, no matter what application is being used it will run through Tor. Tor only handles TCP connections, so it is likely that any raw UDP packets will be dropped.
+Of course the main feature is that all traffic transported through Tor. Note that when we say *all traffic*, no matter what application is being used it will run through Tor. Tor only handles TCP connections, so it is likely that any raw UDP packets will be dropped. The exception is DNS servers, which Tor wraps in TCP and performs the lookup for you (again through Tor).
 
 Everything Ubuntu Brings with it. Whonix Workstation is based off of Debian 9, which is annoying and not user friendly for many users. WhoBuntu is based off of Ubuntu 18.04 and therefore provides richer repositories, more up to date software, and general ease of use.    
 
