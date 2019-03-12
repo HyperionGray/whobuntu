@@ -9,7 +9,7 @@ The following is tested on VirtualBox v6.0, it is highly recommended to use Virt
 
 First download the [Whonix Gateway](https://www.whonix.org/wiki/Download) from the Whonix website. Remember we don't need the Workstation, just the gateway. Import the .ova, if prompted choose to reinitialize all MAC addresses, if not it's OK and move on.
 
-Now download this [link](http://) .ova file and import it to VirtualBox. You are now setup to run WhoBuntu.
+Now download this [link](https://s3-us-west-2.amazonaws.com/hyperiongray-public/whobuntu-0.0.1alpha.ova) .ova file and import it to VirtualBox. You are now setup to run WhoBuntu.
     
 <h2>What now?</h2>
 
